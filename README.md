@@ -21,3 +21,4 @@ Webhook loop test: 2026-10-21 — pushed to prove the gitpp-app receiver verifie
 Derivation-loop live proof: the gitpp-app should answer this push with a git.pp state Check.
 Second live proof run (ring-race re-check).
 referee probe 2026-10-22T07:51:25Z
+probe 3 line 2026-10-22T08:22:05Z
